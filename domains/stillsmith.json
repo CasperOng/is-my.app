@@ -1,6 +1,12 @@
 {
   "$schema": "../schema/domain.schema.json",
-  "owner": { "github": "CasperOng", "email": "casperong@casperong.xyz" },
+  "owner": { 
+    "github": "CasperOng", 
+    "email": "casperong@casperong.xyz" 
+  },
   "description": "An iOS app for turning video moments into full-quality still images.",
-  "records": { "CNAME": "casperong.github.io" }
+  "records": { 
+    "CNAME": "casperong.github.io",
+    "TXT": "google-site-verification=bT8BFG6H7UX4dPX82FH12OuvFHkdcPLSWqwW2Kz6gWo"
+  }
 }
