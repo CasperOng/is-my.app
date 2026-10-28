@@ -1,9 +1,6 @@
 {
-  "owner": {
-    "github": "CasperOng"
-  },
+  "$schema": "../schema/domain.schema.json",
+  "owner": { "github": "CasperOng", "email": "casperong@casperong.xyz" },
   "description": "An iOS app for turning video moments into full-quality still images. Mark frames during playback, extract them on-device, and save them to custom photo albums. A side project exploring AI-assisted development and SwiftUI.",
-  "records": {
-    "CNAME": "casperong.github.io"
-  }
+  "records": { "CNAME": "casperong.github.io" }
 }
