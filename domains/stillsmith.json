@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "github": "CasperOng"
+  },
+  "description": "An iOS app for turning video moments into full-quality still images. Mark frames during playback, extract them on-device, and save them to custom photo albums. A side project exploring AI-assisted development and SwiftUI.",
+  "records": {
+    "CNAME": "casperong.github.io"
+  }
+}
